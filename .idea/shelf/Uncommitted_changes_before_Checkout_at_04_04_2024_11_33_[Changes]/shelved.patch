@@ -1,0 +1,134 @@
+Index: htmlHW1MadaniukMarch2024.html
+===================================================================
+diff --git a/htmlHW1MadaniukMarch2024.html b/HTMLdirectory/htmlHW1MadaniukMarch2024.html
+rename from htmlHW1MadaniukMarch2024.html
+rename to HTMLdirectory/htmlHW1MadaniukMarch2024.html
+--- a/htmlHW1MadaniukMarch2024.html	
++++ b/HTMLdirectory/htmlHW1MadaniukMarch2024.html	
+@@ -30,7 +30,7 @@
+ 
+ <!--</head>-->
+ <!--<body>-->
+-<p>«Терміна́тор» (англ. The Terminator) — американський культовий фантастичний бойовик
++<p>«Терміна́тор» <i>(англ. The Terminator)</i> — американський культовий фантастичний бойовик
+     Джеймса Кемерона, знятий у 1984 році.
+ <p/>
+ <p>Це перший фільм із серії про Термінатора. Фільм довгий час входив до списку 250
+@@ -38,8 +38,8 @@
+     позицію у рейтингу науково-фантастичних стрічок.
+     Успіх фільму призвів до створення франшизи, що складається з кількох сиквелів,
+     телесеріалу, коміксів, романів та відеоігор. У 2008 році «Термінатор» обраний
+-    Бібліотекою Конгресу для збереження в Національному реєстрі фільмів як «культурно,
+-    історично або естетично значущий».</p>
++    Бібліотекою Конгресу для збереження в Національному реєстрі фільмів як <i>«культурно,
++        історично або естетично значущий».</i></p>
+ <p>
+     Фільм відкривається сценою похмурого майбутнього, де триває війна людей і машин. Але головна битва цієї війни має
+     відбутися в минулому, 1984 року. В нічному Лос-Анджелесі водій сміттєвозу стає свідком дивних спалахів, з яких
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"7510ffbe-b115-4416-b3e7-05464572c9c8\" name=\"Changes\" comment=\"\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"HTML File\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"master\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProblemsViewState\">\r\n    <option name=\"selectedTabId\" value=\"CurrentFile\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2eYTnQdCX4rKtIzIiUCtETLqH5f\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\r\n    <OptionsSetting value=\"false\" id=\"Update\" />\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"DefaultHtmlFileTemplate\": \"HTML File\",\r\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"WebServerToolWindowFactoryState\": \"false\",\r\n    \"node.js.detected.package.eslint\": \"true\",\r\n    \"node.js.detected.package.tslint\": \"true\",\r\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\r\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\r\n    \"settings.editor.selected.configurable\": \"preferences.fileTypes\",\r\n    \"vue.rearranger.settings.migration\": \"true\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\Admin\\IdeaProjects\\Git_mergeThreeMaidaniuk\\p1-p6\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"7510ffbe-b115-4416-b3e7-05464572c9c8\" name=\"Changes\" comment=\"\" />\r\n      <created>1712080678009</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1712080678009</updated>\r\n      <workItem from=\"1712080679244\" duration=\"1679000\" />\r\n      <workItem from=\"1712083557902\" duration=\"4000\" />\r\n      <workItem from=\"1712143565706\" duration=\"569000\" />\r\n      <workItem from=\"1712144170334\" duration=\"23000\" />\r\n      <workItem from=\"1712146935156\" duration=\"136000\" />\r\n      <workItem from=\"1712147089413\" duration=\"1183000\" />\r\n      <workItem from=\"1712155427767\" duration=\"1360000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"-dot /idea\">\r\n      <created>1712081010866</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1712081010866</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"init comit\">\r\n      <created>1712081683897</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1712081683897</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"p5p6\">\r\n      <created>1712081822564</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1712081822564</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"p1-p6\">\r\n      <created>1712082243503</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1712082243503</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"- idea\">\r\n      <created>1712143618002</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1712143618002</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00006\" summary=\"p1-p6 directory\">\r\n      <created>1712143936028</created>\r\n      <option name=\"number\" value=\"00006\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1712143936028</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00007\" summary=\"-idea\">\r\n      <created>1712146896815</created>\r\n      <option name=\"number\" value=\"00007\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1712146896815</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00008\" summary=\"+.idea +3p\">\r\n      <created>1712156780159</created>\r\n      <option name=\"number\" value=\"00008\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00008\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1712156780159</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"9\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"e7319218-6027-4dcf-8a49-b17f762079e2\">\r\n          <value>\r\n            <State>\r\n              <option name=\"SHOW_ONLY_AFFECTED_CHANGES\" value=\"true\" />\r\n              <option name=\"FILTERS\">\r\n                <map>\r\n                  <entry key=\"branch\">\r\n                    <value>\r\n                      <list>\r\n                        <option value=\"HEAD\" />\r\n                      </list>\r\n                    </value>\r\n                  </entry>\r\n                  <entry key=\"structure\">\r\n                    <value>\r\n                      <list>\r\n                        <option value=\"dir:C:/Users/Admin/IdeaProjects/Git_mergeThreeMaidaniuk/idea\" />\r\n                      </list>\r\n                    </value>\r\n                  </entry>\r\n                </map>\r\n              </option>\r\n            </State>\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n    <option name=\"OPEN_GENERIC_TABS\">\r\n      <map>\r\n        <entry key=\"e7319218-6027-4dcf-8a49-b17f762079e2\" value=\"TOOL_WINDOW\" />\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"-dot /idea\" />\r\n    <MESSAGE value=\"init comit\" />\r\n    <MESSAGE value=\"p5p6\" />\r\n    <MESSAGE value=\"p1-p6\" />\r\n    <MESSAGE value=\"- idea\" />\r\n    <MESSAGE value=\"p1-p6 directory\" />\r\n    <MESSAGE value=\"-idea\" />\r\n    <MESSAGE value=\"+.idea +3p\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"+.idea +3p\" />\r\n  </component>\r\n</project>
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	
++++ b/.idea/workspace.xml	
+@@ -4,7 +4,10 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="7510ffbe-b115-4416-b3e7-05464572c9c8" name="Changes" comment="" />
++    <list default="true" id="7510ffbe-b115-4416-b3e7-05464572c9c8" name="Changes" comment="">
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/htmlHW1MadaniukMarch2024.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTMLdirectory/htmlHW1MadaniukMarch2024.html" afterDir="false" />
++    </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -24,6 +27,19 @@
+       </map>
+     </option>
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
++  </component>
++  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
++  "lastFilter": {
++    "state": "OPEN"
++  }
++}]]></component>
++  <component name="GithubPullRequestsUISettings">
++    <option name="selectedUrlAndAccountId">
++      <UrlAndAccount>
++        <option name="accountId" value="17a7b0e6-fa1c-4183-b300-9493d247f3bb" />
++        <option name="url" value="https://github.com/OlegMaidaniuk/Git_mergeThreeMaidaniuk.git" />
++      </UrlAndAccount>
++    </option>
+   </component>
+   <component name="MarkdownSettingsMigration">
+     <option name="stateVersion" value="1" />
+@@ -38,24 +54,29 @@
+   </component>
+   <component name="ProjectViewState">
+     <option name="hideEmptyMiddlePackages" value="true" />
++    <option name="showExcludedFiles" value="false" />
+     <option name="showLibraryContents" value="true" />
++    <option name="showMembers" value="true" />
++    <option name="showScratchesAndConsoles" value="false" />
++    <option name="sortByType" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "DefaultHtmlFileTemplate": "HTML File",
+-    "RunOnceActivity.OpenProjectViewOnStart": "true",
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "WebServerToolWindowFactoryState": "false",
+-    "node.js.detected.package.eslint": "true",
+-    "node.js.detected.package.tslint": "true",
+-    "node.js.selected.package.eslint": "(autodetect)",
+-    "node.js.selected.package.tslint": "(autodetect)",
+-    "settings.editor.selected.configurable": "preferences.fileTypes",
+-    "vue.rearranger.settings.migration": "true"
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
++    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
++    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
++    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
++    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
++    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
++    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.fileTypes&quot;,
++    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+   }
+-}]]></component>
++}</component>
+   <component name="RecentsManager">
+     <key name="MoveFile.RECENT_KEYS">
++      <recent name="C:\Users\Admin\IdeaProjects\Git_mergeThreeMaidaniuk\HTMLdirectory" />
+       <recent name="C:\Users\Admin\IdeaProjects\Git_mergeThreeMaidaniuk\p1-p6" />
+     </key>
+   </component>
+@@ -74,6 +95,7 @@
+       <workItem from="1712146935156" duration="136000" />
+       <workItem from="1712147089413" duration="1183000" />
+       <workItem from="1712155427767" duration="1360000" />
++      <workItem from="1712156827227" duration="1537000" />
+     </task>
+     <task id="LOCAL-00001" summary="-dot /idea">
+       <created>1712081010866</created>
+@@ -131,7 +153,14 @@
+       <option name="project" value="LOCAL" />
+       <updated>1712156780159</updated>
+     </task>
+-    <option name="localTasksCounter" value="9" />
++    <task id="LOCAL-00009" summary="+.idea +3p">
++      <created>1712157007190</created>
++      <option name="number" value="00009" />
++      <option name="presentableId" value="LOCAL-00009" />
++      <option name="project" value="LOCAL" />
++      <updated>1712157007190</updated>
++    </task>
++    <option name="localTasksCounter" value="10" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
