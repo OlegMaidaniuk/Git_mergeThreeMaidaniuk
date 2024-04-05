@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Білий прямокутник</title>
+    <style>
+        body, html {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+
+            .gcon {
+                width: 40%;
+                align-items: center;
+
+
+            }
+        }
+
+        .container {
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: flex-start;
+        }
+
+        .top-rectangle {
+            width: 100%;
+            height: 200px;
+            background-color: #0b263a;
+        }
+
+        .middle-row {
+            width: 100%;
+            display: flex;
+            justify-content: space-between;
+            padding: 10px 0;
+        }
+
+        .side-rectangle {
+            width: 28%;
+            height: 150px;
+            background-color: #497bde;
+        }
+
+        .bottom-rectangle {
+            width: 100%;
+            height: 500px;
+            background-color: #0e3756;
+        }
+    </style>
+</head>
+<body>
+<div class="gcon">
+    <div class="container">
+        <div class="top-rectangle"></div>
+        <div class="middle-row">
+            <div class="side-rectangle"></div>
+            <div class="side-rectangle"></div>
+            <div class="side-rectangle"></div>
+        </div>
+        <div class="bottom-rectangle"></div>
+    </div>
+</div>
+</body>
+</html>

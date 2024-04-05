@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+}
+.block {
+    width: 200px;
+    height: 200px;
+    background-color: #3498db;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+}
+.font-rubik {
+    font-family: 'Rubik Mono One', sans-serif;
+}
+.font-sedgwick {
+    font-family: 'Sedgwick Ave Display', cursive;
+}
+.font-dancing {
+    font-family: 'Dancing Script', cursive;
+}
+.font-fjalla {
+    font-family: 'Fjalla One', sans-serif;
+}
+.font-indie {
+    font-family: 'Indie Flower', cursive;
+}
