@@ -1,0 +1,25 @@
+
+.block .list li.pink:nth-child(even) {
+    color: pink;
+}
+
+
+.block2 .list2 li:not(:nth-child(even)) {
+    font-size: 22px;
+}
+
+
+.block3 .list3 li:nth-child(2n+4):after {
+    content: "!";
+}
+
+
+.block4 .list4 li:last-child {
+    color: purple;
+}
+
+
+.block5 .list5 li {
+    font-size: 30px;
+    color: red;
+}
