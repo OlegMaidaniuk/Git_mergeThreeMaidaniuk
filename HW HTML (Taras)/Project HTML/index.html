@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Сайт про каву</title>
+    <style>
+        body, html {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+        }
+
+        .top, .middle, .bottom {
+            width: 100%;
+            text-align: center;
+            padding: 50px;
+        }
+
+        .top {
+            background-image: url('https://static.espreso.tv/uploads/article/143310/images/im-nastoyashhij-kofe.jpg');
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            height: 100vh; /* Встановлюємо висоту в 100% висоти екрану */
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .top h1, .top p {
+            color: white;
+            z-index: 1;
+        }
+
+        .button-container {
+            position: absolute;
+            top: 50%;
+            transform: translateY(-50%);
+            z-index: 1;
+        }
+
+        .button-container button {
+            margin: 10px;
+            padding: 10px 20px;
+            font-size: 16px;
+            background-color: rgba(255, 255, 255, 0.5);
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        .middle {
+            background-color: #f2f2f2;
+            height: 100vh; /* Встановлюємо висоту в 100% висоти екрану */
+            display: flex;
+            justify-content: space-around;
+            align-items: center;
+            flex-wrap: wrap;
+            padding: 20px; /* Додамо невеликий відступ між зображеннями і текстом */
+        }
+
+        .middle img {
+            width: 200px; /* Зменшимо ширину зображень */
+            height: auto; /* Автоматично обчислюємо висоту, щоб зберегти пропорції */
+            margin-bottom: 20px;
+        }
+
+        .middle p {
+            width: 200px; /* Встановимо ширину для тексту */
+            margin-top: 20px; /* Піднімемо текст від зображення */
+        }
+
+        .bottom {
+            background-color: #333;
+            height: 100vh; /* Встановлюємо висоту в 100% висоти екрану */
+        }
+    </style>
+</head>
+<body>
+<div class="top">
+    <div class="button-container">
+        <button>Кнопка 1</button>
+        <button>Кнопка 2</button>
+        <button>Кнопка 3</button>
+    </div>
+
+</div>
+
+<div class="middle">
+    <img src="https://dingo.com.ua/source/miscellaneous/158.jpg" alt="Кава">
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed fermentum erat eget diam aliquam, eu suscipit dolor feugiat.</p>
+
+    <img src="https://dingo.com.ua/source/miscellaneous/158.jpg" alt="Кава">
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed fermentum erat eget diam aliquam, eu suscipit dolor feugiat.</p>
+
+    <img src="https://dingo.com.ua/source/miscellaneous/158.jpg" alt="Кава">
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed fermentum erat eget diam aliquam, eu suscipit dolor feugiat.</p>
+</div>
+
+<div class="bottom">
+    <h2>Нижня частина сайту про каву</h2>
+    <p>Тут можна розмістити контактну інформацію, посилання на соціальні мережі та інші корисні ресурси.</p>
+</div>
+</body>
+</html>
