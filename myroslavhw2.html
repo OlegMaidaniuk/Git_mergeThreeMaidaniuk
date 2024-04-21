@@ -59,51 +59,50 @@
 <!--        }-->
 <!--    </style>-->
 
-
     <style>
-        .small-block-0 {
-        width: 20%;
-        height: 65px;
-        display: flex;
-        justify-content: space-between;
-        margin: 10px;
-        background-color: #2c2c9a;
-    }
-    .small-block-2 {
-        width: 100px;
-        height: 100px;
-        display: flex;
-        justify-content: space-between;
-        margin: 10px;
-        background-color: #2c2c9a;
-    }
-    .small-block_3 {
-        width: 100px;
-        height: 100px;
-        display: flex;
-        margin: 10px;
-        justify-content: space-between;
-        background-color: #2c2c9a;
-    }</style>
-
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+        }
+        .top-block {
+            width: 100%;
+            height: 800px;
+            background-color: #f0f0f0; /* Колір верхнього блоку */
+        }
+        .container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 800px;
+        }
+        .bottom-blocks {
+            display: flex;
+            justify-content: space-around;
+            margin-top: 20px; /* Відступ між верхнім блоком та нижніми блоками */
+        }
+        .block {
+            width: 100px;
+            height: 100px;
+            background-color: blue; /* Колір блоків */
+        }
+        .bottom-full-width {
+            width: 100%;
+            height: 800px;
+            background-color: #f0f0f0; /* Колір нижнього блоку */
+            margin-top: 20px; /* Відступ між нижніми блоками та блоком на весь вириною */
+        }
+    </style>
 </head>
 <body>
-<!--<div class="block"></div>-->
-<!--<div class="block"></div>-->
-<!--<div class="block"></div>-->
-<!--<div class="block"></div>-->
-<!--<div class="block"></div>-->
-<!--<div class="block"></div>-->
-
-
-<div class="big-block"></div>
-<div class="small-blocks">
-    <div class="small-block-0"></div>
-    <div class="small-block-2"></div>
-    <div class="small-block_3"></div>
+<div class="top-block"></div>
+<div class="container">
+    <div class="bottom-blocks">
+        <div class="block"></div>
+        <div class="block"></div>
+        <div class="block"></div>
+    </div>
 </div>
-<div class="big-block"></div>
-
-
+<div class="bottom-full-width"></div>
 </body>
 </html>
